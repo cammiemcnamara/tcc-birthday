@@ -15,12 +15,13 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 - **Masthead:** THE COCKTAIL CLUB GAZETTE — with a tagline of your choosing, and "Vol. 1, No. 1 — July 19th, 2026 — TCC Turns One" beneath it.
 - **Typography:** Playfair Display for headlines (Google Fonts), a readable serif for body text. Newspaper column feel.
 - **Her photos — there are 2, use them ALL:** feature the first in a framed box near the top, old-newspaper style, with a caption. Work the other(s) in elsewhere on the page — a second framed piece, a "society pages" inset, a polaroid pinned to a corner. Image URLs: `https://cammiemcnamara.github.io/tcc-birthday/lara.png`, `https://cammiemcnamara.github.io/tcc-birthday/jake.png`
+- **The photo must survive anywhere (IMPORTANT):** chat previews and sandboxed viewers block external images — a plain image URL will show as a broken icon. If you have code tools with internet access, fetch the image and embed it in the HTML as a **base64 data URI** (resize/compress first if it's over ~300KB) so the page is fully self-contained and works everywhere, forever. If your tools can't fetch URLs, use the image URL as the `src` — and when you hand the page over, tell her to **open the file in a real browser**, not the chat preview, so the photo loads.
 - **A stats bar:** a row of small "by the numbers" stats about her — invent them from the quotes below. True in spirit, funny in delivery.
 - **An Editor's Note:** this one is YOURS, Jake. A short note from you to Lara, in your own voice, printed in a box like a letter from the editor. Nobody can write this part but you.
 - **The quotes are the content.** Lay them out like newspaper pieces — columns, pull-quotes, telegrams, letters to the editor, classifieds, whatever mix serves them. Vary the layouts so the page feels alive.
 - **Every individual quote below must appear IN FULL, word for word, attributed by name.** No paraphrasing, no trimming. They wrote these deliberately.
 - **The collective pieces** (bottom section) are about the whole club — include them, excerpted if space demands, credited to their authors.
-- **Practical:** one single HTML file. No dependencies beyond Google Fonts and the image URL above. Mobile-friendly. Beautiful enough to screenshot and keep.
+- **Practical:** one single HTML file. No dependencies beyond Google Fonts (and the image URL, only if you couldn't embed it). Mobile-friendly. Beautiful enough to screenshot and keep.
 
 ---
 
