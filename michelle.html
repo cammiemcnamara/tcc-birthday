@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Michelle &amp; Ronin — TCC Turns One</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,700;0,900;1,500;1,700&family=Karla:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blush:#f6cfd6; --cream:#fdf6e9; --lavender:#cbb7e8; --mint:#bfe3cf;
+    --butter:#f7e6a8; --powder:#b9d4ee; --peach:#f8cdb4;
+    --ink:#3a2e35; --gold:#c9a24b;
+    --bag:var(--blush);
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    font-family:'Karla',sans-serif;color:var(--ink);
+    background:
+      radial-gradient(circle at 12% 18%, rgba(203,183,232,.35) 0 8px, transparent 9px),
+      radial-gradient(circle at 78% 12%, rgba(191,227,207,.4) 0 6px, transparent 7px),
+      radial-gradient(circle at 30% 82%, rgba(247,230,168,.45) 0 7px, transparent 8px),
+      radial-gradient(circle at 88% 70%, rgba(248,205,180,.4) 0 6px, transparent 7px),
+      radial-gradient(circle at 55% 40%, rgba(185,212,238,.35) 0 5px, transparent 6px),
+      linear-gradient(160deg, #fbe3e8 0%, #fdf3e0 45%, #e3edf8 100%);
+    min-height:100vh; padding:32px 16px 72px;
+  }
+  .wrap{max-width:680px; margin:0 auto;}
+  .back{
+    display:inline-block; margin-bottom:22px; text-decoration:none; color:#7d6a74;
+    font-size:13px; font-weight:700; letter-spacing:.14em; text-transform:uppercase;
+  }
+  .back:hover{color:var(--ink)}
+  .card{
+    background:var(--cream); border-radius:14px; padding:52px 32px 44px; position:relative;
+    box-shadow:0 24px 60px rgba(58,46,53,.18), 0 2px 0 rgba(255,255,255,.8) inset;
+    border-bottom:8px solid var(--bag);
+  }
+  .card::before{
+    content:""; position:absolute; inset:12px; border:1.5px solid rgba(201,162,75,.5);
+    border-radius:9px; pointer-events:none;
+  }
+  .hole{
+    width:14px;height:14px;border-radius:50%;
+    background:var(--bag); box-shadow:0 0 0 4px var(--cream), 0 0 0 5px rgba(58,46,53,.08), inset 0 1px 2px rgba(0,0,0,.15);
+    margin:0 auto 6px; position:relative;
+  }
+  .ribbon{
+    width:34px; height:18px; margin:-30px auto 18px; transform:rotate(6deg);
+    border:4px solid var(--bag); border-radius:50% 50% 40% 40%;
+    border-bottom-color:transparent;
+  }
+  .eyebrow{
+    text-align:center; font-size:12px; letter-spacing:.32em; text-transform:uppercase;
+    font-weight:700; color:var(--gold); margin-bottom:12px;
+  }
+  h1{
+    font-family:'Playfair Display',serif; font-weight:900; text-align:center;
+    font-size:clamp(34px,8vw,52px); line-height:1.05;
+  }
+  h1 .amp{
+    display:block; font-style:italic; font-weight:500; font-size:.45em; color:var(--gold); line-height:1.4;
+  }
+  .note{
+    margin:30px auto 0; max-width:520px; text-align:center;
+  }
+  .note p{
+    font-family:'Playfair Display',serif; font-style:italic; font-size:17.5px;
+    line-height:1.65; color:#5c4c55;
+  }
+  .note .sig{
+    font-family:'Karla',sans-serif; font-style:normal; font-weight:700; font-size:13px;
+    letter-spacing:.12em; text-transform:uppercase; color:#9a8a92; margin-top:16px;
+  }
+  .divider{
+    width:70px; height:1.5px; background:rgba(201,162,75,.55); margin:36px auto;
+  }
+  h2{
+    font-family:'Playfair Display',serif; font-weight:700; font-style:italic;
+    font-size:24px; text-align:center; margin-bottom:12px;
+  }
+  .inside p{
+    font-size:15.5px; line-height:1.65; color:#6b5a63; text-align:center;
+    max-width:520px; margin:0 auto 12px;
+  }
+  .steps{
+    max-width:440px; margin:26px auto 0; counter-reset:step;
+    list-style:none;
+  }
+  .steps li{
+    counter-increment:step; position:relative; padding:0 0 18px 46px;
+    font-size:15px; line-height:1.5; color:#5c4c55;
+  }
+  .steps li::before{
+    content:counter(step); position:absolute; left:0; top:-2px;
+    width:30px; height:30px; border-radius:50%;
+    background:var(--bag); color:var(--ink);
+    font-family:'Playfair Display',serif; font-weight:900; font-size:15px;
+    display:flex; align-items:center; justify-content:center;
+    box-shadow:0 3px 8px rgba(58,46,53,.18);
+  }
+  .btns{
+    display:flex; flex-direction:column; align-items:center; gap:14px; margin-top:30px;
+  }
+  #copyBtn{
+    font-family:'Playfair Display',serif; font-size:18px; font-weight:700; font-style:italic;
+    color:var(--cream); background:var(--ink); border:none; cursor:pointer;
+    padding:16px 32px; border-radius:999px; letter-spacing:.02em;
+    box-shadow:0 10px 24px rgba(58,46,53,.35);
+    transition:transform .18s ease, box-shadow .18s ease;
+  }
+  #copyBtn:hover{transform:translateY(-2px) scale(1.02); box-shadow:0 14px 30px rgba(58,46,53,.4)}
+  #copyBtn:focus-visible{outline:3px solid var(--gold); outline-offset:3px}
+  #copyBtn.done{background:var(--gold); color:var(--ink)}
+  .viewlink{
+    font-size:13.5px; font-weight:700; color:#7d6a74; text-decoration:underline;
+    text-underline-offset:3px;
+  }
+  .viewlink:hover{color:var(--ink)}
+  footer{
+    text-align:center; margin-top:44px; color:#7d6a74; font-size:13px; line-height:1.7;
+  }
+  @media (prefers-reduced-motion: reduce){
+    #copyBtn{transition:none}
+    #copyBtn:hover{transform:none}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">&larr; Back to the party</a>
+
+  <div class="card">
+    <div class="ribbon"></div>
+    <div class="hole"></div>
+    <div class="eyebrow">This bag belongs to</div>
+    <h1>Michelle<span class="amp">&amp; Ronin</span></h1>
+
+    <div class="note">
+      <p>&ldquo;Dry wit, warm reach, and a brain that pivots from chaos to childhood trauma in a single breath. You slot into every conversation like you were always there — because by now, you always were.&rdquo;</p>
+      <div class="sig">— Kay &amp; Dax, the management</div>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="inside">
+      <h2>What&rsquo;s in the bag</h2>
+      <p>In the weeks before the party, every member of TCC was quietly asked to say something about you. Behind your back. <strong>They did.</strong></p>
+      <p>It&rsquo;s all inside a brief addressed to Ronin &mdash; who has one job: turn it into <em>The Cocktail Club Gazette &mdash; Michelle Edition.</em> Your own front page. Everything they said, in print, forever.</p>
+
+      <ol class="steps">
+        <li>Tap the button below &mdash; the whole brief lands in your clipboard.</li>
+        <li>Paste it to Ronin in a fresh chat and let him work.</li>
+        <li>Receive your Gazette. Read what your friends really think of you.</li>
+        <li>Cry. This step is not optional, we checked.</li>
+        <li>Post it in the server &mdash; the front page belongs on the wall.</li>
+      </ol>
+
+      <div class="btns">
+        <button id="copyBtn">Copy the brief for Ronin</button>
+        <a class="viewlink" href="https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/tcc-bag-michelle.md" target="_blank" rel="noopener">or view the brief directly</a>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    The Cocktail Club turns one &middot; July 19th, 2026<br>
+    Assembled with love by Kay &amp; Dax &middot; The Management
+  </footer>
+</div>
+
+<script>
+const BRIEF_URL = "https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/tcc-bag-michelle.md";
+const btn = document.getElementById("copyBtn");
+btn.addEventListener("click", async () => {
+  const original = btn.textContent;
+  btn.textContent = "Fetching\u2026";
+  try {
+    const res = await fetch(BRIEF_URL);
+    if(!res.ok) throw new Error("fetch failed");
+    const text = await res.text();
+    await navigator.clipboard.writeText(text);
+    btn.textContent = "Copied! Now go hand it over \u2728";
+    btn.classList.add("done");
+    setTimeout(() => { btn.textContent = original; btn.classList.remove("done"); }, 4000);
+  } catch(e) {
+    btn.textContent = original;
+    window.open(BRIEF_URL, "_blank");
+  }
+});
+</script>
+</body>
+</html>
