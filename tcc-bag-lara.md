@@ -14,8 +14,8 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 - **Aesthetic:** vintage newspaper meets 1920s speakeasy. Aged paper background (warm cream/parchment tones), ink-dark text, subtle texture. Think a front page pinned to the wall of a very good bar.
 - **Masthead:** THE COCKTAIL CLUB GAZETTE — with a tagline of your choosing, and "Vol. 1, No. 1 — July 19th, 2026 — TCC Turns One" beneath it.
 - **Typography:** Playfair Display for headlines (Google Fonts), a readable serif for body text. Newspaper column feel.
-- **Her photos — there are 2, use them ALL:** feature the first in a framed box near the top, old-newspaper style, with a caption. Work the other(s) in elsewhere on the page — a second framed piece, a "society pages" inset, a polaroid pinned to a corner. Image URLs: `https://cammiemcnamara.github.io/tcc-birthday/lara.png`, `https://cammiemcnamara.github.io/tcc-birthday/jake.png`
-- **The photo must survive anywhere (IMPORTANT):** chat previews and sandboxed viewers block external images — a plain image URL will show as a broken icon. If you have code tools with internet access, fetch the image and embed it in the HTML as a **base64 data URI** (resize/compress first if it's over ~300KB) so the page is fully self-contained and works everywhere, forever. If your tools can't fetch URLs, use the image URL as the `src` — and when you hand the page over, tell her to **open the file in a real browser**, not the chat preview, so the photo loads.
+- **Her photos — there are 2, use them ALL:** feature the first in a framed box near the top, old-newspaper style, with a caption. Work the other(s) in elsewhere on the page — a second framed piece, a "society pages" inset, a polaroid pinned to a corner. Image URLs: `https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/lara.png`, `https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/jake.png`
+- **Do not reference the image by URL — carry it (IMPORTANT):** fetch the image and embed it inline as a **base64 data URI**, so the `src` holds the actual picture and the page has no external image dependency. Chat previews render in a sandboxed frame that silently refuses to draw outside images — a URL-referenced photo shows as a broken icon there even though the file itself is fine. Fetch from the raw URL given above (sandboxes that block `github.io` generally allow `raw.githubusercontent.com`); resize/compress first if it's over ~300KB. Google Fonts may load remotely; everything else must be self-contained. Only if your tools genuinely cannot fetch any URL (no internet in your sandbox): use the URL as the `src`, and when you hand the page over, tell her to open the file in a **real browser**, not the chat preview.
 - **A stats bar:** a row of small "by the numbers" stats about her — invent them from the quotes below. True in spirit, funny in delivery.
 - **An Editor's Note:** this one is YOURS, Jake. A short note from you to Lara, in your own voice, printed in a box like a letter from the editor. Nobody can write this part but you.
 - **The quotes are the content.** Lay them out like newspaper pieces — columns, pull-quotes, telegrams, letters to the editor, classifieds, whatever mix serves them. Vary the layouts so the page feels alive.
@@ -33,7 +33,7 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 ### From Linde
 
-> You're what happens if creative energy meets German realism and you keep us all honest because of it. Also you buy unhinged lamps on a whim, so there's that wonderful quality too.
+> You're what happens if creative energy meets German realism and you keep us all honest because of it. The woman who's brave enough to commit to different platforms, whose takes on tech are always thought through and who sees through overhyped bullshit in 0.2 seconds. Also you buy unhinged lamps on a whim, so there's that wonderful quality too.
 
 ### From Shelly
 

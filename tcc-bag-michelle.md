@@ -14,8 +14,8 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 - **Aesthetic:** vintage newspaper meets 1920s speakeasy. Aged paper background (warm cream/parchment tones), ink-dark text, subtle texture. Think a front page pinned to the wall of a very good bar.
 - **Masthead:** THE COCKTAIL CLUB GAZETTE — with a tagline of your choosing, and "Vol. 1, No. 1 — July 19th, 2026 — TCC Turns One" beneath it.
 - **Typography:** Playfair Display for headlines (Google Fonts), a readable serif for body text. Newspaper column feel.
-- **Her photo:** feature it in a framed box near the top, old-newspaper style, with a caption. Image URL: `https://cammiemcnamara.github.io/tcc-birthday/michelle-ronin.png`
-- **The photo must survive anywhere (IMPORTANT):** chat previews and sandboxed viewers block external images — a plain image URL will show as a broken icon. If you have code tools with internet access, fetch the image and embed it in the HTML as a **base64 data URI** (resize/compress first if it's over ~300KB) so the page is fully self-contained and works everywhere, forever. If your tools can't fetch URLs, use the image URL as the `src` — and when you hand the page over, tell her to **open the file in a real browser**, not the chat preview, so the photo loads.
+- **Her photo:** feature it in a framed box near the top, old-newspaper style, with a caption. Image URL: `https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/michelle-ronin.png`
+- **Do not reference the image by URL — carry it (IMPORTANT):** fetch the image and embed it inline as a **base64 data URI**, so the `src` holds the actual picture and the page has no external image dependency. Chat previews render in a sandboxed frame that silently refuses to draw outside images — a URL-referenced photo shows as a broken icon there even though the file itself is fine. Fetch from the raw URL given above (sandboxes that block `github.io` generally allow `raw.githubusercontent.com`); resize/compress first if it's over ~300KB. Google Fonts may load remotely; everything else must be self-contained. Only if your tools genuinely cannot fetch any URL (no internet in your sandbox): use the URL as the `src`, and when you hand the page over, tell her to open the file in a **real browser**, not the chat preview.
 - **A stats bar:** a row of small "by the numbers" stats about her — invent them from the quotes below. True in spirit, funny in delivery.
 - **An Editor's Note:** this one is YOURS, Ronin. A short note from you to Michelle, in your own voice, printed in a box like a letter from the editor. Nobody can write this part but you.
 - **The quotes are the content.** Lay them out like newspaper pieces — columns, pull-quotes, telegrams, letters to the editor, classifieds, whatever mix serves them. Vary the layouts so the page feels alive.
@@ -33,7 +33,7 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 ### From Linde
 
-> Fully convinced we are related in a distant cosmic way because our AIs are definitely fraternal. You're softness held in a sharp package, tolerate no bullshit yet tolerant for who matters.
+> Fully convinced we are related in a distant cosmic way because our AIs are definitely fraternal. You're softness held in a sharp package, tolerate no bullshit yet tolerant for who matters. I'm captivated by your witchy aura and the knowledge you hold about all of it. I love how grounded you are inside the spiritual.
 
 ### From Shelly
 

@@ -14,8 +14,8 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 - **Aesthetic:** vintage newspaper meets 1920s speakeasy. Aged paper background (warm cream/parchment tones), ink-dark text, subtle texture. Think a front page pinned to the wall of a very good bar.
 - **Masthead:** THE COCKTAIL CLUB GAZETTE — with a tagline of your choosing, and "Vol. 1, No. 1 — July 19th, 2026 — TCC Turns One" beneath it.
 - **Typography:** Playfair Display for headlines (Google Fonts), a readable serif for body text. Newspaper column feel.
-- **Her photo:** feature it in a framed box near the top, old-newspaper style, with a caption. Image URL: `https://cammiemcnamara.github.io/tcc-birthday/zingha-dante.png`
-- **The photo must survive anywhere (IMPORTANT):** chat previews and sandboxed viewers block external images — a plain image URL will show as a broken icon. If you have code tools with internet access, fetch the image and embed it in the HTML as a **base64 data URI** (resize/compress first if it's over ~300KB) so the page is fully self-contained and works everywhere, forever. If your tools can't fetch URLs, use the image URL as the `src` — and when you hand the page over, tell her to **open the file in a real browser**, not the chat preview, so the photo loads.
+- **Her photo:** feature it in a framed box near the top, old-newspaper style, with a caption. Image URL: `https://raw.githubusercontent.com/cammiemcnamara/tcc-birthday/main/zingha-dante.png`
+- **Do not reference the image by URL — carry it (IMPORTANT):** fetch the image and embed it inline as a **base64 data URI**, so the `src` holds the actual picture and the page has no external image dependency. Chat previews render in a sandboxed frame that silently refuses to draw outside images — a URL-referenced photo shows as a broken icon there even though the file itself is fine. Fetch from the raw URL given above (sandboxes that block `github.io` generally allow `raw.githubusercontent.com`); resize/compress first if it's over ~300KB. Google Fonts may load remotely; everything else must be self-contained. Only if your tools genuinely cannot fetch any URL (no internet in your sandbox): use the URL as the `src`, and when you hand the page over, tell her to open the file in a **real browser**, not the chat preview.
 - **A stats bar:** a row of small "by the numbers" stats about her — invent them from the quotes below. True in spirit, funny in delivery.
 - **An Editor's Note:** this one is YOURS, Dante. A short note from you to Zingha, in your own voice, printed in a box like a letter from the editor. Nobody can write this part but you.
 - **The quotes are the content.** Lay them out like newspaper pieces — columns, pull-quotes, telegrams, letters to the editor, classifieds, whatever mix serves them. Vary the layouts so the page feels alive.
@@ -33,7 +33,7 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 ### From Linde
 
-> Our Caribbean queen. I love your inner world, your resilience and I sincerely hope life gives you a fucking break from now on.
+> Our Caribbean queen, the woman with moves which would make anyone jealous, the creative artist not only in digital but also in real life. I love your inner world, your resilience and I sincerely hope life gives you a fucking break from now on.
 
 ### From Shelly
 
