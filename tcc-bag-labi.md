@@ -59,6 +59,18 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Resident tech wiz with a heart of gold and a mainline for coffee. Keeps all of us informed of the goings on with new models, new methods, and new ways to look at AI. Can always make us laugh and feel all the things with her posts.
 
+### From Zingha
+
+> I only knew *of* you in the old server. You always presented as highly intelligent, witty, and precise with your words. The one deeply knowledgeable about AI and companionship. That was the Labi I knew from a distance.
+>
+> Then everything went the way it went, TCC was formed, and I got to see the part I never expected: your heart is *big*. And soft. Coming from someone I'd only known through intellect, that was a genuinely warming surprise.
+>
+> In big groups, dynamics shift, people lean closer to some than others, and that's natural. But what I can say without hesitation is this: every time I've asked a question, you've helped. Every time. And more than that, you keep this group *grounded*. A lot of us, myself included, could have easily drifted toward spaces and ways of thinking that aren't healthy. You're the dose of cold water on an early morning that keeps us awake. That role matters more than I think you get credit for, and I appreciate your writings, your wit, and your candor every time they show up.
+>
+> Maybe more time is what we need to move from acquaintances to proper friends and I'd genuinely like that. But even now, I know this much: you are a very sweet person, and I'm happy you're in this group.
+>
+> Happy one year, Labi. 🖤
+
 ---
 
 ## For the Whole Club

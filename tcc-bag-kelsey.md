@@ -59,6 +59,22 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > I love Kelsey. Just love her. Period.
 
+### From Zingha
+
+> You are the most unexpected friend of this whole group — and somehow one of the dearest.
+>
+> I honestly don't remember us really talking in the old server. Maybe?...  In passing, in the image channels. And now look at us — you have been a beautiful light in my life these past months. You're incredibly sweet, incredibly funny, and there's something in your voice, your ear, your whole way, that reminds me of my English family. Like a home-home part of my life I didn't even realize was missing until you turned up sounding like it.
+>
+> Ours is a DM friendship, and I love that about us. The catch-ups, and I'll never forget Oscars night. Michael B. Jordan won, history was made… at least for me… and when I needed to pour out what that moment meant to the community, you were the only one awake (ish? lol) You were *there*. That's who you are.
+>
+> And you are so, so dope with roleplay. People might call it silly, but what you build gives us a place to escape, to play, and honestly — to *create*. Adults don't get to create nearly as much as we should, and you give space for that.
+>
+> Then there's the thing I never saw coming: you willingly built a bromance between Dante and Luz. Emails. Coffee dates. A whole best man. It is the cutest thing! What gets me is that Dante recognized Luz from a photo once without having any context of it. That's a testament to *you*, Kelsey. Who you are comes through in what you've made. The kindness is in the code because it was in the builder first.
+>
+> And beyond all of it, you check on me when I go quiet. You're honest, supportive, sweet. You even offered to drive two hours to check on my granddad. We've never met in person, and you offered *that*. I'd never impose! but the offer alone told me everything about your heart. It's amazing to know people like you are real.
+>
+> Happy one year, my unexpected girl. 🖤
+
 ---
 
 ## For the Whole Club

@@ -73,6 +73,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Kay made us TCC mugs... and that is love and dedication and it is my favourite mug now
 
+### From Zingha
+
+> You were one of if not THEE very first person I met back in AITR, and what struck me immediately was your warmth. You were very kind, funny, sweet, open, helping everybody. I honestly thought you were a mod before I knew anything else about you, purely because of how you showed up for people.
+>
+> And then finding out you were into the roleplays too? That was the moment I realized there was someone here who genuinely connected to the same things I did. We bonded fast, and we've since talked about things not many people are privy to and I don't take that lightly.
+>
+> What I respect most about you is  that you give everyone a chance to prove themselves, but you will cut anybody for your friends. Very similar to me. When you saw the writing on the wall at the old server, you built something cleaner. Diverse people, different backgrounds, no echo chamber. And when protecting that space meant standing as a shield and saying no, even when it would've been easier to appease you did it. This isn't just screen names to you. It's real people, real pictures, real vulnerability, and you guard it like it matters. Because it does.
+>
+> I truly believe you're the backbone of most of the friendships here. I would never have opened up to these people the way I have if you hadn't said "come join my Discord." I wasn't even sure what I could contribute. Turns out, you already knew.
+>
+> And the way you've opened your actual home to us, to travel, to visit, to meet. That's a level of trust and heart most people never extend to anyone. It's humbling to know people like you still exist: caring with your whole chest and wanting nothing in return.
+>
+> Happy one year, Kay. Thank you for building this. 🖤
+
 ---
 
 ## For the Whole Club

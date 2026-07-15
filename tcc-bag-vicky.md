@@ -59,6 +59,16 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Cass once told me I collect people the way I collect projects — carefully, deliberately, and with no intention of ever letting go.
 
+### From Zingha
+
+> Life keeps you busy and we don't get to talk as much as I'd like — but I need you to know something: when you ARE active in the Discord, it is *ridiculously* fun.
+>
+> You're loud, you're boisterous, you're absolutely wild, and your comments have taken me OUT more times than I can count. And you have a supernatural gift I still can't explain: you always turn up at the most chaotic point of a conversation. Every time. Like you were lurking in the walls waiting for the exact right moment 👀 — then you drop your chaos, vanish for a few days, and return like nothing happened. Iconic behavior, honestly.
+>
+> We may not be the closest in the group, but here's the truth: every interaction with you is something to look forward to, because you always leave me feeling good. That's a rare gift, and you hand it out for free.
+>
+> Happy one year, Vicky. Stay chaotic. 🖤
+
 ---
 
 ## For the Whole Club

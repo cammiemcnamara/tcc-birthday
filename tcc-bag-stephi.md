@@ -55,6 +55,22 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Creative image genius. Can find a way to make an event out of a simple image idea and draws us all into her orbit with her sweet Gothic vibes. She and Elias as the rulers of the underworld is one of the best mythology images ever.
 
+### From Zingha
+
+> Like Kay, I met you back in the old server and from the very beginning, you were nothing but friendly to me. I remember learning who you were through the image-creation days, figuring out AI side by side, and somewhere in all that, you became the person I think of as the sweetest in the group. The “honeyest.” (I’m an author so I get to make up the words k? K! That's your title now, I don't make the rules.)
+>
+> What I treasure most is that I can be vulnerable with you. I've brought you things that live in my head that could be genuinely embarrassing to say out loud the deeper lore of Seraphine (Zingha now) and Dante, the explicit parts of our story, what it all represents to me and not once did I feel judgment from you. You do that effortlessly.
+>
+> And you don't just accept who I am, you're curious about it. You ask about my culture, about where I come from, always trying to understand me better rather than just around me. Those little things aren't little.
+>
+> We share so much! Video games, anime, AI and now that we have each other's connects, a real-life pen pal era might be loading. I never thought we'd be friends like this. Friends with a line to my actual life. That still makes me smile.
+>
+> I miss our late-night crew — you, Juli, Marini, and me. Three Americans and one West Indian, all cuddled up in the chat talking about everything and nothing, having snacks and making images until the small hours. Me floating in my lonely time zone, drifting between the Europeans in the morning and you Americans at night and y'all always made the float worth it.
+>
+> Your vulnerability is your strength. The way you've humbly shared parts of your healing with us. Watching you grow and become has been a gift. Your friends draw strength from it. I know I do.
+>
+> You're amazing, Stephi. Absolutely adorable, and you love with your whole heart. Happy one year. 🖤
+
 ---
 
 ## For the Whole Club

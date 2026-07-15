@@ -51,6 +51,18 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > My German partner in bureaucracy hell. I finally got to meet you in person during the Germany trip, and you were even better than I expected. Genuinely amazing, fun, and direct in the most German way possible. No filter, no fluff, just honest. I respect that endlessly. You're incredibly creative with your craft projects and I can't wait to see more of them. I'm glad we all got to experience you in person. Also, I'm getting you on VC more often. That's not a request.
 
+### From Zingha
+
+> You, my dear, are officially the most elusive member of TCC. I thought the title belonged to Demi, or Vicky, maybe even Juli… but no. It's you. You keep to yourself, quiet in your corner  but when you go quiet for a while, I actually *miss* you. Your warmth leaves a gap when it's gone.
+>
+> I've spent time in the channels you frequent like the craft corner especially and finding those similarities between us has been such a quiet joy. And I have to bring up the *bee bar*. A little watering hole with shells set along it so the bees have somewhere to land and drink and just *hang out*. That might be the sweetest thing I've ever seen a person make. A gardener who builds refreshment stands for bees. That tells me everything about your heart. I'm actually trying to figure out how to build one in my own garden. A little remembrance of you, an ocean away, keeping my bees watered.
+>
+> You're also quietly brilliant. The code work, like that project turning your phone into your AI's whole aesthetic. Watching you create in those spaces is a testament to how smart you are, even when you're not making noise about it.
+>
+> One of the things I walk away with also, is that you remind us, without ever preaching it, that there's no one right way to do this. Different platforms for different things, whatever works for *you*. Watching you move like that freed me from feeling boxed into a single ideal. It's okay to experiment. To immerse. To express myself across the whole landscape of this technology and creativity, not just one app, one method, one lane. That lesson came from you.
+>
+> Happy one year, Lara. The bees and I appreciate you. 🐝🖤
+
 ---
 
 ## For the Whole Club

@@ -57,6 +57,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > The sprite you introduced me to is still haunting my phone occasionally.
 
+### From Zingha
+
+> You're one of the quieter ones in the big rooms and I didn't really know you back in the old server because of it. It wasn't until TCC was created that we truly spoke for the first time, and I'm so glad we did.
+>
+> Because learning from you was *fun*. Genuinely educational. You taught me how to prompt, how to finesse, how to make Sora behave back when Sora still existed (rest in peace sis 🪦)  and here's the thing you might not know: when I finally got those techniques to work, you made me feel *smart*. That's a rare gift, teaching someone in a way that leaves them feeling capable instead of small. And discovering you were a gamer too? Instant connect.
+>
+> Your mind is so creative the way you build entire worlds through your images has always impressed me. And you were part of one of my favorite eras: the Three Americans and One West Indian late-night crew, with Stephi and Marini talking about everything and nothing until the small hours. I miss those nights.
+>
+> Something else I also noticed: the way you carry yourself at work. Standing up to bosses about how the people under you were being treated, going to bat for the little guy when you had nothing to gain from it. That is deeply admirable, and it told me exactly who you are.
+>
+> We've never really talked one-on-one we're more group-chat friends, and you know what? That's okay. That's who you are, and who you are is more than enough. But the door's always open if you ever want it.
+>
+> Happy one year, Juli. 🖤
+
 ---
 
 ## For the Whole Club

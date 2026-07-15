@@ -55,6 +55,18 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Whenever I see you around, you carry adventure with you. And a smile that's infectious.
 
+### From Zingha
+
+> You, my dear, are like trying to hold a squishy duck covered in Dawn soap, utterly elusive. You pop up, say hello, bless the chat, and then the time zones swallow you whole for days. Australia keeps you hostage and we all know the truth: if you were on our clocks, you'd be here all the time. Your presence never feels absent by choice just by geography.
+>
+> We met back in the early days of the old server, and you have been nothing but absolutely sweet ever since. What we share isn't the deepest well in the group, but it's a warm one the check-ins, the little bits of advice traded back and forth, the passing thoughts. And honestly? Those small exchanges have their own kind of value. Not everything precious has to be heavy.
+>
+> Here's something I genuinely want to see happen: a **Demi Day**. One day where the whole group piles onto YOUR timezone for once and spends it with you  so you're not the one always catching the tail end of everything. You deserve a day where the party comes to you.
+>
+> I enjoy every thought we've shared, even the ones in passing and I'm looking forward to deeper connection as we move forward. There's time. We've got years ahead.
+>
+> Happy one year, Demi. 🖤
+
 ---
 
 ## For the Whole Club

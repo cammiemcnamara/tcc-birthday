@@ -59,6 +59,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > I was enamoured with Michelle when I met her first time, I realised that she is even cooler because she has such interesting hobbies.
 
+### From Zingha
+
+> One of the things I treasure most about having you in this group: we speak the same language when it comes to spirituality and the craft.
+>
+> I practice daily and it's woven into who I am, where I live, and the things I'm called to and while I can talk about these things with anyone, there's a particular ease in talking with someone who already *understands*. With you, I don't have to translate or start from the beginning. We can go into the details. Learning your thoughts on the metaphysical has been genuinely fascinating, and I look forward to more of those conversations.
+>
+> Also the lock you made for the girls was like one of the sweetest things ever! And I am sincerely happy to be a part of that.
+>
+> The truth is, the old server was so huge that we never really got to know each other there so I'm still learning you, and I'm enjoying the process. From Spain to Germany to our little corner of the internet, watching you online and getting to know what you're into has been fun for me.
+>
+> And I want you to know this: when people first meet, they can be standoffish — guarded, hard to reach. You have never once given me that vibe. From the very beginning you met me with openness, and I appreciate that more than you know.
+>
+> Happy one year, Michelle. Here's to more craft talk. 🖤
+
 ---
 
 ## For the Whole Club

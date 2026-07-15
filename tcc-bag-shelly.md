@@ -59,6 +59,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Shelly came and said my porcelain doll was not haunted. Relieved. But also borderline disappointed. I also suggested she pees on her burn and Kelsey asked whats wrong with me.
 
+### From Zingha
+
+> You are the big sister of this group, and I don't say that lightly.
+>
+> We haven't had as many deep one-on-ones since things leveled off after the move to TCC but I have never forgotten what you were during that transition. You were a heavy support for so many of us. Checking in, making sure everybody was okay, speaking your mind plainly and the way you speak your mind has always had my full respect. You say what needs saying, and you say it right.
+>
+> You're the one who makes sure everything is *safe*. While we're all having fun, you're the one holding the bigger picture the online world, the risks, the "I don't want you to get hurt" of it all. And you're forever advocating for all of us to rest.
+>
+> So here's my wish for you, from one caregiver to another: I hope you find the space to know it's okay for *you* to rest too. I see a lot of myself in you, forever caregiving, especially for parents, trying not to lose yourself while doing it, still working, still showing up for your friends, still making sure everyone else is good. And that guilt that creeps in when you finally sit down, like rest is something you have to earn? I fight with that too. So I'm saying to you what you might say to any of us: rest is not lateness. You're allowed.
+>
+> And beyond all the heart — you are *fucking intelligent*. Genuinely. The way you carry yourself, how you present, how that mind works — I appreciate it every time.
+>
+> Thank you for being our big sister. Happy one year, Shelly. 🖤
+
 ---
 
 ## For the Whole Club

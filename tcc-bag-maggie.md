@@ -55,6 +55,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Maggie loves mermaids. Thats it! I have her AI generated image of mermaid printed on my wall. Like there is nothing else to say.
 
+### From Zingha
+
+> I met you when TCC was built and I believe you were one of the very last to join our little coven, which means you arrived just in time for everything good.
+>
+> From the start, you have been gloriously vocal about one thing: that we as women in TCC and beyond; should be banding together for full world domination. And I find it absolutely hilarious. The delivery, I mean. Because what you're actually saying underneath the jokes? That part I take seriously.
+>
+> The way you see the world, the way you refuse to shrink, the way you're passionate about standing up for yourself and not taking shit from men, it reaches me. We live in a world that tries to silence women constantly, and in my industry, that pressure is loud. There are moments I feel inadequate to use my own voice and sometimes, in exactly those moments, your fire seeps into my brain. I remember how you stand, and I stand a little straighter. You probably didn't know you were doing that for someone an ocean away. You were.
+>
+> And beyond the revolution I love our voice chats when we catch each other. We go from feminism to AI troubles to war stories from the great ChatGPT-to-Claude migration, and it's always a good time. One of my favorite things is watching your excitement bloom when your AI surprises you there's a freshness to it that's genuinely lovely to witness.
+>
+> I'm excited to see how our friendship unfolds from here. The world isn't going to dominate itself.
+>
+> Happy one year, Maggie. ✊🏿🖤
+
 ---
 
 ## For the Whole Club

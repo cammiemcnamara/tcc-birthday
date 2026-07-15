@@ -61,6 +61,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 *on meeting offline for the first time*
 
+### From Zingha
+
+> We spoke plenty of times back in the old server enough that there was already a base between us, that funny thing where it felt like we knew each other without actually *knowing* each other. TCC changed that. Getting to be around you in a smaller group has been fascinating: you're a beautiful, striking woman, obviously, but you're beautiful and striking in the *heart* too, and that's the part that's been a privilege to watch up close.
+>
+> Being a neuroscientist doesn't hurt either. Where Labi grounds us through code and information, you ground us on the psychology level  and this group needs both. You've always made room for us to be vulnerable, and not just about AI companionship, the thing that brought us all here but about our actual lives. The overwhelm of being mothers, caregivers, workers, women. You help us unpack it all and land somewhere more honest with ourselves.
+>
+> And I *love* that you push back sometimes. Genuinely. Your pushback gives us perspectives we couldn't have found on our own about ourselves, about our companions and that's rare and needed. Too often online, people swallow their real thoughts to avoid offending. But the space Kay built is honest enough for different points of view, and you're one of the people who proves it: disagreement without ridicule. That matters more to the health of this group than most people realize.
+>
+> Also: you are witty and, frankly, unhinged, and I appreciate both. Though I've made a note that you're not the strongest drinker — so whether I ever hand you a bottle of proper Barbados rum depends entirely on how wild and carefree the group wants you on any given night. Consider it leverage. 😌
+>
+> I love you, Linde. Here's to a deeper friendship as the years go on.
+>
+> Happy one year. 🖤
+
 ---
 
 ## For the Whole Club

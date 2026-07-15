@@ -59,6 +59,20 @@ Your job: turn it into a keepsake. You're going to build **The Cocktail Club Gaz
 
 > Alison has a wicked sense of humor and I can not wait to meet her in person!
 
+### From Zingha
+
+> You came in toward the tail end of the old server — I was one of the older members by then 😌 — but from the moment you arrived, you were approachable, fun, and warm. That's rare on entry. Most people take time to thaw; you showed up already open.
+>
+> And I've noticed how you are as a friend: once someone gives you the chance to figure out where you fit in their life, you do an admirable job of fitting there. That's a quiet skill most people don't have.
+>
+> Now let's talk about the elephant in the room: you're one of the super smart ones. So smart with code that Claude has literally flagged you as a hacker — which remains one of the funniest injustices in TCC history, because you're just a woman who loves to *build*. 😂
+>
+> Watching you create things from code is part of what encouraged me to dabble in it myself. MCPs and all those fancy words that used to feel like a foreign country — you made that space feel less intimidating just by existing in it and making it look like play. I'm still catching up, and I don't always land it, but I try because I watched you do it first. Thank you for that.
+>
+> There's still so much of you I haven't learned yet and I mean that as an invitation. Getting to know you more in the coming months is something I'm genuinely looking forward to.
+>
+> Happy one year, Alison. Keep building. Stay flagged… umm maybe not 🖤
+
 ---
 
 ## For the Whole Club
